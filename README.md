@@ -7,7 +7,13 @@
 # Tentang Aplikasi Vegetable Scanner
 ## Vegetable Scanner adalah aplikasi yang memanfaatkan teknologi pemindaian visual untuk mengidentifikasi jenis sayuran secara instan. Dengan hanya mengarahkan kamera ke objek atau mengambil dari galeri, pengguna dapat mengetahui nama sayuran,deskripsi, nutrisi, harga serta manfaat sayuran.
 
-## Cara menggunakan aplikasi Vegetable Scanner sangat mudah, tinggal buka aplikasinya lalu pencet icon camera/scan dan foto sayuran yang ingin kita ketahui.
+# Tidak menggunakan API jadi bisa langsung digunakan.
+
+# Cara menggunakan aplikasi Vegetable Scanner 
+## 1. Buka Halaman kamera memlalui icon scan/camera yang ada di halaman utama untuk memulai proses pemindaian.
+## 2. Ambil atau Unggah Foto, Ppengguna dapat mengambil foto secara langsung menggunakan kamera, atau mengunggah foto dari galeri perangkat.
+## 3. Sistem akan melakukan analisis otomatis untuk mendeteksi jenis sayuran berdasarkan model klasifikasi.
+## 4. Setelah selesai akan kembali ke halaman utama dan mendapat popup memberi tahu jenis sayuran apa dari hasil analisis gambar.
 
 # APK Vegetable Scanner
-## https://drive.google.com/drive/folders/17zUjdt27UnqUzmSw-KEYVx5_zfBkG52q
+## [https://drive.google.com/drive/folders/17zUjdt27UnqUzmSw-KEYVx5_zfBkG52q](https://drive.google.com/drive/folders/17zUjdt27UnqUzmSw-KEYVx5_zfBkG52q?usp=drive_link)
