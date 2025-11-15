@@ -1,4 +1,4 @@
-# 🍀VEGETABLE SCANNER: Sebuah aplikasi identifikasi sayuran berbasis CNN
+# 🍀VEGETABLE SCANNER: Sebuah aplikasi klasifikasi sayuran berbasis CNN
 
 # 👥 KELOMPOK A4
 ## 1. Aldi Daffa Arisyi - 2309106017
